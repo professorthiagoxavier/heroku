@@ -1,29 +1,16 @@
-/*{
+{
   "name": "heroku",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
-}*/
-
-{
-  "name": "hellonode",
-  "version": "0.0.1",
-  "dependencies": {
-    "express": "4.15.4"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "engines": {
-    "node": "6.11.2"
   }
 }
