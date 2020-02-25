@@ -6,6 +6,6 @@
     "express"
   ],
   "website": "http://www.jamesward.com",
-  "repository": "https://github.com/jamesward/heroku-teste.git",
+  "repository": "https://github.com/professorthiagoxavier/heroku.git",
   "logo": "https://nodejs.org/images/logos/nodejs.png"
 }
