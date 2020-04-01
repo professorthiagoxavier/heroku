@@ -18,7 +18,7 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "herokunodecdteste" #Must be unique in Heroku
           heroku_email: ${{secrets.HEROKU_EMAIL}}
-          buildpack: "SOME BUILDPACK" #OPTIONAL
-          branch: "YOUR_BRANCH" #OPTIONAL and DEFAULT - 'HEAD' (a.k.a your current branch)
+          #buildpack: "SOME BUILDPACK" #OPTIONAL
+          #branch: "YOUR_BRANCH" #OPTIONAL and DEFAULT - 'HEAD' (a.k.a your current branch)
           dontuseforce: false #OPTIONAL and DEFAULT - false
           usedocker: false #OPTIONAL and DEFAULT - false
